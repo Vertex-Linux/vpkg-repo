@@ -1,0 +1,7 @@
+{
+  "name": "calla",
+  "version": "1.0.0",
+  "description": "A super fast and efficient desktop enviroment baised on Awesome.",
+  "type": "pacman",
+  "file": "my-package-pkgbuild.zip"
+}
