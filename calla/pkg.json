@@ -4,6 +4,6 @@
   "description": "A super fast and efficient desktop enviroment baised on Awesome.",
   "type": "pacman",
   "file": "calla-0.3-2-x86_64.pkg.tar.zst",
-  "aur": ["awesome-git", "noto-color-emoji-fontconfig", "vim-gtk3", "lua-pam-git"],
+  "aur": ["awesome-git", "noto-color-emoji-fontconfig", "lua-pam-git"],
   "pm":  ["playerctl", "noto-fonts", "noto-fonts-cjk", "noto-fonts-extra", "papirus-icon-theme", "picom", "brightnessctl", "pipewire-pulse", "xorg-server", "inotify-tools", "maim", "network-manager-applet", "nemo", "polkit-gnome", "blueman", "xdg-user-dirs"]
 }
