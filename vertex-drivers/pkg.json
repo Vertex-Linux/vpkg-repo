@@ -1,0 +1,9 @@
+{
+  "name": "vertex-drivers",
+  "version": "latest",
+  "description": "Vertex Linux driver manager",
+  "type": "binary",
+  "source": "github",
+  "github_repo": "Vertex-Linux/vertex-tools",
+  "github_asset": "vertex-drivers"
+}

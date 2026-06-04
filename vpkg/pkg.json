@@ -1,0 +1,10 @@
+{
+  "name": "vpkg",
+  "version": "latest",
+  "description": "Vertex Linux package manager",
+  "type": "binary",
+  "source": "github",
+  "github_repo": "Vertex-Linux/vertex-tools",
+  "github_asset": "vpkg-{arch}-unknown-linux-gnu",
+  "rename-file": "vpkg"
+}

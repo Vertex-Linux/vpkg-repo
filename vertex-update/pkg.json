@@ -1,0 +1,11 @@
+{
+  "name": "vertex-update",
+  "version": "latest",
+  "description": "Vertex Linux update manager",
+  "type": "binary",
+  "source": "github",
+  "github_repo": "Vertex-Linux/vertex-tools",
+  "github_asset": "vertex-update-{arch}-unknown-linux-gnu",
+  "rename-file": "vertex-update",
+  "github_tag_keyword": "-vu"
+}
