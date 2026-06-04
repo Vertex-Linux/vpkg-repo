@@ -6,5 +6,5 @@
   "source": "github",
   "github_repo": "Vertex-Linux/Calla",
   "aur": ["awesome-git", "noto-color-emoji-fontconfig", "lua-pam-git"],
-  "pm":  ["playerctl", "noto-fonts", "noto-fonts-cjk", "noto-fonts-extra", "papirus-icon-theme", "picom", "brightnessctl", "xorg-server", "inotify-tools", "maim", "network-manager-applet", "nemo", "polkit-gnome", "blueman", "xdg-user-dirs", "xorg-xrandr", "arandr", "xorg-xset"]
+  "pm":  ["playerctl", "noto-fonts", "noto-fonts-cjk", "noto-fonts-extra", "papirus-icon-theme", "picom", "brightnessctl", "xorg-server", "inotify-tools", "maim", "network-manager-applet", "nemo", "polkit-gnome", "blueman", "xdg-user-dirs", "xorg-xrandr", "arandr", "xorg-xset", "breeze"]
 }
