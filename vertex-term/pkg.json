@@ -7,6 +7,11 @@
   "github_repo": "Vertex-Linux/vertex-tools",
   "github_asset": "vertex-term-{arch}-unknown-linux-gnu",
   "rename-file": "vertex-term",
-  "github_tag_keyword": "-vt"
+  "github_tag_keyword": "-vt",
+  "create-desktop": true,
+  "desktop-name": "Vertex Terminal",
+  "desktop-comment": "Terminal emulator for Vertex Linux",
+  "desktop-categories": "Utility;GTK;",
+  "icon": "term.svg"
 }
 
