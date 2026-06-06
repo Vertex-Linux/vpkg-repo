@@ -1,7 +1,7 @@
 {
-  "name": "vertex-drivers",
+  "name": "vertex-term",
   "version": "latest",
-  "description": "Vertex Linux driver manager",
+  "description": "Vertex Linux terminal emulator",
   "type": "binary",
   "source": "github",
   "github_repo": "Vertex-Linux/vertex-tools",
