@@ -1,0 +1,12 @@
+{
+  "name": "vertex-drivers",
+  "version": "latest",
+  "description": "Vertex Linux driver manager",
+  "type": "binary",
+  "source": "github",
+  "github_repo": "Vertex-Linux/vertex-tools",
+  "github_asset": "vertex-term-{arch}-unknown-linux-gnu",
+  "rename-file": "vertex-term",
+  "github_tag_keyword": "-vt"
+}
+

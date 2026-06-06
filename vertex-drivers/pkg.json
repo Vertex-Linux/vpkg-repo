@@ -4,6 +4,6 @@
   "description": "Vertex Linux driver manager",
   "type": "binary",
   "source": "github",
-  "github_repo": "Vertex-Linux/vertex-tools",
+  "github_repo": "Vertex-Linux/vertex-graphics-installer",
   "github_asset": "vertex-drivers"
 }
